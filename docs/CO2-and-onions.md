@@ -16,7 +16,7 @@ This false data and homemade figure are rather interesting inclusions, as the fi
 
 ## References
   
-1.	Anon 2021. Horticulture, Environment, and Biotechnology. [online] Springer. Available at: https://www.springer.com/journal/13580 [Accessed 24 Oct. 2021]. 
-2.	Bettoni, M.M., Mogor, A.F., Pauletti, V. and Goicoechea, N. 2017. The interaction between mycorrhizal inoculation, humic acids supply and elevated atmospheric CO2 increases energetic and antioxidant properties and sweetness of yellow onion. Horticulture, Environment, and Biotechnology, 58, pp. 432-440. DOI: 10.1007/s13580-017-0122-4 
-3.	Cheng, A., Chen, X., Jin, Q., Wang, W., Shi, J. and Liu, Y., 2013. Comparison of phenolic content and antioxidant capacity of red and yellow onions. Czech Journal of Food Sciences, 31(5), pp.501–508. Available at: https://doi.org/10.17221/566/2012-CJFS
+1.	Anon 2021. Horticulture, Environment, and Biotechnology. [online] *Springer*. Available at: https://www.springer.com/journal/13580 [Accessed 24 Oct. 2021]. 
+2.	Bettoni, M.M., Mogor, A.F., Pauletti, V. and Goicoechea, N. 2017. The interaction between mycorrhizal inoculation, humic acids supply and elevated atmospheric CO2 increases energetic and antioxidant properties and sweetness of yellow onion. *Horticulture, Environment, and Biotechnology*, 58, pp. 432-440. DOI: 10.1007/s13580-017-0122-4 
+3.	Cheng, A., Chen, X., Jin, Q., Wang, W., Shi, J. and Liu, Y., 2013. Comparison of phenolic content and antioxidant capacity of red and yellow onions. *Czech Journal of Food Sciences*, 31(5), pp.501–508. Available at: https://doi.org/10.17221/566/2012-CJFS
 
